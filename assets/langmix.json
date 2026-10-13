@@ -1,0 +1,12 @@
+{
+  "title": "RafArenasDev · language mix",
+  "_comment": "Self-rated, 0-100, based on real project usage (CV + repos).",
+  "axes": [
+    { "label": "JavaScript/TS", "value": 90 },
+    { "label": "PHP", "value": 80 },
+    { "label": "Python", "value": 70 },
+    { "label": "Dart", "value": 65 },
+    { "label": "Java", "value": 55 },
+    { "label": "C#", "value": 50 }
+  ]
+}
