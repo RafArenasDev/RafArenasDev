@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/RafArenasDev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BWeb+%E2%80%A2+Mobile+%E2%80%A2+Production+Support%3BCode+-+Terminal+-+Coffee+-+Security+-+Always+Learning" alt="Animated typing banner with developer profile">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BWeb+%26+Mobile+Development%3BClean+Code+-+Security+-+Always+Learning" alt="Animated typing banner with developer profile">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=RafArenasDev&style=flat&color=39ff14&label=profile+views" alt="profile views">
@@ -52,8 +52,7 @@
     </tr>
     <tr>
       <td valign="top"><code>├─ ▦ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL and SQLite">
-        <img src="https://cdn.simpleicons.org/microsoftsqlserver/39ff14?viewbox=auto" height="48" alt="SQL Server"><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mssql,mysql,sqlite" alt="PostgreSQL, SQL Server, MySQL and SQLite"><br>
         <sub><code>PostgreSQL · SQL Server · MySQL · SQLite</code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ security_tools:</code><br><br>
