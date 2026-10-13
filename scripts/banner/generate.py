@@ -39,11 +39,11 @@ PREFERRED_LOGO_ORDER = ("react", "nodejs")
 YAML_ROWS = [
     (0, "profile", ""),
     (1, "subject", "Rafael Arenas"),
-    (1, "role", "Systems Engineer & Full Stack Developer"),
+    (1, "role", "Full Stack Developer (Mid-Level)"),
     (1, "origin", "Dosquebradas, Colombia"),
+    (1, "experience", "~5 years building software"),
     (1, "focus", "Web & Mobile Development"),
-    (1, "status", "Building reliable, production-ready software"),
-    (1, "toolchain", "React · Node.js · Laravel · Flutter"),
+    (1, "interests", "Clean Code · Cybersecurity · Coffee"),
     (0, "stack", ""),
     (1, "frontend", "React · Angular · TypeScript"),
     (1, "backend", "Node.js · Laravel · PHP · Python"),
@@ -57,28 +57,28 @@ YAML_ROWS = [
 
 THEMES = {
     "dark": {
-        "bg":      "#060A07",
-        "panel":   "#0B120C",
-        "panel2":  "#0E1710",
-        "line":    "#1E3A26",
-        "muted":   "#5C9070",
-        "text":    "#DFFFE6",
-        "portrait":"#39FF14",   # matrix green
-        "chrome":  "#00FFA3",   # terminal cyan-green
-        "accent":  "#39FF14",
+        "bg":      "#0D1117",
+        "panel":   "#121A13",
+        "panel2":  "#141F16",
+        "line":    "#27362B",
+        "muted":   "#7C8F82",
+        "text":    "#E6F1EA",
+        "portrait":"#3FB950",   # GitHub green
+        "chrome":  "#56D364",   # GitHub bright green
+        "accent":  "#3FB950",
         "shadow":  "#000000",
     },
     "light": {
-        "bg":      "#F1F7F2",
+        "bg":      "#F6F8F6",
         "panel":   "#FFFFFF",
-        "panel2":  "#E9F4EB",
-        "line":    "#BEE3C6",
-        "muted":   "#4C7A5C",
-        "text":    "#0B2E16",
-        "portrait":"#1B8A3C",
-        "chrome":  "#0E9F6E",
-        "accent":  "#0E9F6E",
-        "shadow":  "#A9D1B2",
+        "panel2":  "#EEF5EF",
+        "line":    "#C9DDCC",
+        "muted":   "#4B6B53",
+        "text":    "#0D2B14",
+        "portrait":"#1A7431",
+        "chrome":  "#2EA043",
+        "accent":  "#2EA043",
+        "shadow":  "#C9DDCC",
     },
 }
 
