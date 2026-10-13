@@ -5,14 +5,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-dark.v9.svg" width="960" alt="Perfil de Rafael Arenas, Full Stack Developer">
+    <img src="assets/banner-dark.v9.svg" width="960" alt="Rafael Arenas's developer profile banner">
   </picture>
 </a>
 
 <br>
 
 <a href="https://github.com/RafArenasDev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BWeb+%E2%80%A2+Mobile+%E2%80%A2+Production+Support%3BCodigo+-+Terminal+-+Cafe+-+Seguridad+-+Aprender+siempre" alt="Banner animado con perfil de desarrollador">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BWeb+%E2%80%A2+Mobile+%E2%80%A2+Production+Support%3BCode+-+Terminal+-+Coffee+-+Security+-+Always+Learning" alt="Animated typing banner with developer profile">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=RafArenasDev&style=flat&color=39ff14&label=profile+views" alt="profile views">
@@ -24,7 +24,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-hacker.svg" width="960" alt="Terminal con el perfil de Rafael Arenas, Full Stack Developer">
+  <img src="assets/whoami-hacker.svg" width="960" alt="Terminal card with Rafael Arenas's profile, Full Stack Developer">
 </p>
 
 <br>
@@ -42,22 +42,22 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ▣ frontend_mobile:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=react,angular,flutter,ts,js" alt="React, Angular, Flutter, TypeScript y JavaScript"><br>
+        <img src="https://skillicons.dev/icons?i=react,angular,flutter,ts,js" alt="React, Angular, Flutter, TypeScript and JavaScript"><br>
         <sub><code>React · Angular · Flutter · TypeScript · JavaScript</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ⚙ backend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,cs,java" alt="Node.js, Laravel, PHP, Python, C# y Java"><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,cs,java" alt="Node.js, Laravel, PHP, Python, C# and Java"><br>
         <sub><code>Node.js · Laravel · PHP · Python · C# · Java</code></sub>
       </td>
     </tr>
     <tr>
       <td valign="top"><code>├─ ▦ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL y SQLite">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL and SQLite">
         <img src="https://cdn.simpleicons.org/microsoftsqlserver/39ff14?viewbox=auto" height="48" alt="SQL Server"><br>
         <sub><code>PostgreSQL · SQL Server · MySQL · SQLite</code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ security_tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vite" alt="Git, Docker, GitHub Actions y Vite"><br>
+        <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vite" alt="Git, Docker, GitHub Actions and Vite"><br>
         <sub><code>Git · Docker · GitHub Actions · Vite · Cisco Ethical Hacker</code></sub>
       </td>
     </tr>
@@ -79,12 +79,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades fullstack">
+    <img src="assets/radar-light.svg" width="390" alt="Full stack skill radar">
   </picture>&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Language stack radar">
   </picture>
 </p>
 
@@ -113,5 +113,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💻 y mucho cafe desde Dosquebradas, Colombia · @RafArenasDev</sub>
+<sub>Built with 💻 and lots of coffee in Dosquebradas, Colombia · @RafArenasDev</sub>
 </div>
