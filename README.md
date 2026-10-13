@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/RafArenasDev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer+(Mid-Level)%3B%7E5+Years+Building+Software%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BClean+Code+-+Cybersecurity+-+Coffee" alt="Animated typing banner with developer profile">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer+(Mid-Level)%3B3%2B+Years+Professional+Experience%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BClean+Code+-+Cybersecurity+-+Coffee" alt="Animated typing banner with developer profile">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=RafArenasDev&style=flat&color=3fb950&label=profile+views" alt="profile views">
@@ -54,11 +54,20 @@
       <td valign="top"><code>├─ ▦ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL and SQLite">
         <img src="assets/icon-sqlserver.svg" height="48" alt="SQL Server"><br>
-        <sub><code>PostgreSQL · SQL Server · MySQL · SQLite</code></sub>
+        <sub><code>PostgreSQL · MySQL · SQLite · SQL Server</code></sub>
       </td>
-      <td valign="top"><code>╰─ ⌁ cybersecurity:</code><br><br>
+      <td valign="top"><code>╰─ ⌁ devops_tools:</code><br><br>
         <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vite" alt="Git, Docker, GitHub Actions and Vite"><br>
-        <sub><code>Cisco Ethical Hacking · CyberOps Associate · Threat Mgmt</code></sub>
+        <sub><code>Git · Docker · GitHub Actions · Vite</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>╰─ 🛡 cybersecurity:</code><br><br>
+        <img src="assets/icon-cisco.svg" height="40" alt="Cisco"><br>
+        <img src="https://img.shields.io/badge/Ethical_Hacking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Ethical Hacking">
+        <img src="https://img.shields.io/badge/CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CyberOps Associate">
+        <img src="https://img.shields.io/badge/Cyber_Threat_Management-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cyber Threat Management"><br>
+        <sub><code>Cisco Certified · Secure-by-design mindset</code></sub>
       </td>
     </tr>
   </tbody>
@@ -67,6 +76,31 @@
       <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
     </tr>
   </tfoot>
+</table>
+
+</div>
+
+---
+
+## `$ cat education.yaml`
+
+<div align="center">
+
+<table border="1" cellpadding="14" bgcolor="#121a13">
+  <tbody>
+    <tr>
+      <td valign="top">🎓</td>
+      <td valign="top"><b>Systems Engineering</b>, focus on Digital Forensics<br><sub>Fundación Universitaria del Área Andina</sub></td>
+    </tr>
+    <tr>
+      <td valign="top">🎓</td>
+      <td valign="top"><b>Technology in Systems Analysis &amp; Development</b><br><sub>SENA</sub></td>
+    </tr>
+    <tr>
+      <td valign="top">🛡️</td>
+      <td valign="top"><b>Cisco Certified</b> — Ethical Hacking · CyberOps Associate · Cyber Threat Management<br><sub>Cisco Networking Academy</sub></td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
@@ -94,22 +128,16 @@
       <td><sub>Real-time multiplayer Top Trumps-style card battle game — build a deck from public APIs (Pokémon, Dragon Ball, Naruto) and battle across web, desktop and mobile.</sub></td>
     </tr>
     <tr>
-      <td>🔧 <b>Inventory-Manager-Motos</b></td>
-      <td><img src="https://img.shields.io/badge/In_Progress-F5A623?style=flat-square" alt="In Progress"></td>
+      <td>🛒 <b>Inventory-Manager</b></td>
+      <td><img src="https://img.shields.io/badge/Going_Public_Soon-2EA043?style=flat-square" alt="Going Public Soon"></td>
       <td><sub>TypeScript · Laravel</sub></td>
-      <td><sub>Inventory management system for motorcycle parts warehouses.</sub></td>
+      <td><sub>Point-of-sale (POS) and inventory management system — the next project to ship publicly once polished.</sub></td>
     </tr>
     <tr>
       <td>💬 <b>Nestwork</b></td>
       <td><img src="https://img.shields.io/badge/In_Progress-F5A623?style=flat-square" alt="In Progress"></td>
       <td><sub>TypeScript · Laravel</sub></td>
       <td><sub>Internal team chat with workspaces verified by email domain and real-time messaging — a lightweight alternative to Slack/Teams for small and mid-sized teams.</sub></td>
-    </tr>
-    <tr>
-      <td>🛒 <b>Inventory-Manager</b></td>
-      <td><img src="https://img.shields.io/badge/In_Progress-F5A623?style=flat-square" alt="In Progress"></td>
-      <td><sub>TypeScript · Laravel</sub></td>
-      <td><sub>Point-of-sale (POS) and inventory management system.</sub></td>
     </tr>
     <tr>
       <td>🏥 <b>Vita-Salud</b></td>
@@ -120,24 +148,21 @@
   </tbody>
 </table>
 
-<p align="center"><sub><code>note: in-progress projects are private while they're being built — they'll go public as each one ships</code></sub></p>
+<p align="center"><sub><code>note: in-progress projects are private while they're being built — Inventory-Manager ships public next</code></sub></p>
 
 ---
 
-## `$ git log --stats`
+## `$ kubectl get signals`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafArenasDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=56D364&icon_color=3FB950&text_color=E6F1EA" alt="Rafael's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafArenasDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=56D364&text_color=E6F1EA" alt="Rafael's most used languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="420" alt="Rafael's self-assessed full stack skill radar">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafArenasDev&hide_border=true&background=0D1117&stroke=27362B&ring=3FB950&fire=56D364&currStreakLabel=3FB950&sideLabels=7C8F82&dates=7C8F82&currStreakNum=E6F1EA&sideNums=E6F1EA" alt="Rafael's GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3fb950/RafArenasDev" alt="Rafael's GitHub contribution graph" width="100%">
-</p>
+<p align="center"><sub><code>self-assessment · updated manually as skills grow</code></sub></p>
 
 ---
 
