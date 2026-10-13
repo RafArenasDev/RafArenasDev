@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=900&lines=Rafael+Arenas+%E2%80%94+Full+Stack+Developer+(Mid-Level)%3B3%2B+Years+Professional+Experience%3BReact+%7C+Node.js+%7C+Laravel+%7C+Flutter%3BClean+Code+-+Cybersecurity+-+Coffee" alt="Animated typing banner with developer profile">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=RafArenasDev&style=flat&color=3fb950&label=profile+views" alt="profile views">
+<!-- <img src="https://komarev.com/ghpvc/?username=RafArenasDev&style=flat&color=3fb950&label=profile+views" alt="profile views"> -->
 
 </div>
 
