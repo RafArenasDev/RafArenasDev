@@ -30,13 +30,13 @@
   <text x="48" y="196" fill="#5c9070" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">context:</text>
   <text x="166" y="196" fill="#00ffa3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Dosquebradas, Colombia 🇨🇴</text>
   <text x="48" y="225" fill="#5c9070" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">mission:</text>
-  <text x="166" y="225" fill="#39ff14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">construir software que no falle en produccion</text>
+  <text x="166" y="225" fill="#39ff14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">build software that doesn't break in production</text>
 
   <text x="48" y="267" fill="#00ffa3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">❯ ls expertise/</text>
   <text x="48" y="299" fill="#39ff14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">fullstack/</text>
   <text x="214" y="299" fill="#dfffe6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">React · Node.js · Laravel · Flutter</text>
   <text x="48" y="326" fill="#39ff14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">production/</text>
-  <text x="214" y="326" fill="#dfffe6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Incidentes criticos · SQL · SLA · L2</text>
+  <text x="214" y="326" fill="#dfffe6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Critical incidents · SQL · SLA · L2</text>
 
   <rect x="651" y="78" width="280" height="271" rx="9" fill="#0e1710" stroke="#1e3a26" stroke-width="1.5"/>
   <text x="674" y="111" fill="#00ffa3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">security runtime</text>
@@ -45,5 +45,5 @@
   <path d="M674 202H908M674 216H908M674 230H908M674 244H908M674 258H908" stroke="#0e1710" stroke-width="5" opacity=".9"/>
   <path d="M674 277C711 247 746 303 785 272S861 249 908 281" fill="none" stroke="#00ffa3" stroke-width="3" filter="url(#glow)"/>
   <path d="M674 294C716 264 746 320 789 289S862 270 908 298" fill="none" stroke="#39ff14" stroke-width="2"/>
-  <text x="674" y="326" fill="#5c9070" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">status: aprendiendo siempre</text>
+  <text x="674" y="326" fill="#5c9070" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">status: always learning</text>
 </svg>
