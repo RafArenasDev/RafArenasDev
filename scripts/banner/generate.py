@@ -39,7 +39,7 @@ PREFERRED_LOGO_ORDER = ("react", "nodejs")
 YAML_ROWS = [
     (0, "profile", ""),
     (1, "subject", "Rafael Arenas"),
-    (1, "role", "Full Stack Developer"),
+    (1, "role", "Systems Engineer & Full Stack Developer"),
     (1, "origin", "Dosquebradas, Colombia"),
     (1, "focus", "Web & Mobile Development"),
     (1, "status", "Building reliable, production-ready software"),
