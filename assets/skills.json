@@ -1,0 +1,12 @@
+{
+  "title": "Full Stack Skill Radar",
+  "_comment": "Self-rated, 0-100.",
+  "axes": [
+    { "label": "React & Frontend", "value": 85 },
+    { "label": "Node.js & Backend", "value": 85 },
+    { "label": "Laravel / PHP", "value": 80 },
+    { "label": "Flutter / Mobile", "value": 75 },
+    { "label": "SQL & Databases", "value": 85 },
+    { "label": "Production Support", "value": 90 }
+  ]
+}
