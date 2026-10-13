@@ -128,27 +128,27 @@
       <td><sub>Real-time multiplayer Top Trumps-style card battle game — build a deck from public APIs (Pokémon, Dragon Ball, Naruto) and battle across web, desktop and mobile.</sub></td>
     </tr>
     <tr>
-      <td>🛒 <b>Inventory-Manager</b></td>
-      <td><img src="https://img.shields.io/badge/Going_Public_Soon-2EA043?style=flat-square" alt="Going Public Soon"></td>
+      <td>🛒 <a href="https://github.com/RafArenasDev/Inventory-Manager"><b>Inventory-Manager</b></a></td>
+      <td><img src="https://img.shields.io/badge/Public-3fb950?style=flat-square" alt="Public"></td>
       <td><sub>TypeScript · Laravel</sub></td>
-      <td><sub>Point-of-sale (POS) and inventory management system — the next project to ship publicly once polished.</sub></td>
+      <td><sub>Point-of-sale (POS) and inventory management system.</sub></td>
     </tr>
     <tr>
-      <td>💬 <b>Nestwork</b></td>
-      <td><img src="https://img.shields.io/badge/In_Progress-F5A623?style=flat-square" alt="In Progress"></td>
+      <td>💬 <a href="https://github.com/RafArenasDev/Nestwork"><b>Nestwork</b></a></td>
+      <td><img src="https://img.shields.io/badge/Public-3fb950?style=flat-square" alt="Public"></td>
       <td><sub>TypeScript · Laravel</sub></td>
       <td><sub>Internal team chat with workspaces verified by email domain and real-time messaging — a lightweight alternative to Slack/Teams for small and mid-sized teams.</sub></td>
     </tr>
     <tr>
-      <td>🏥 <b>Vita-Salud</b></td>
-      <td><img src="https://img.shields.io/badge/In_Progress-F5A623?style=flat-square" alt="In Progress"></td>
+      <td>🏥 <a href="https://github.com/RafArenasDev/Vita-Salud"><b>Vita-Salud</b></a></td>
+      <td><img src="https://img.shields.io/badge/Public-3fb950?style=flat-square" alt="Public"></td>
       <td><sub>React 19 · TypeScript · Vite</sub></td>
-      <td><sub>Medical management SPA connecting Admins, Doctors and Patients, with hybrid persistence and PWA support.</sub></td>
+      <td><sub>Medical management SPA connecting Admins, Doctors and Patients, with hybrid persistence and PWA support. Started as a university project, now being refined further.</sub></td>
     </tr>
   </tbody>
 </table>
 
-<p align="center"><sub><code>note: in-progress projects are private while they're being built — Inventory-Manager ships public next</code></sub></p>
+<p align="center"><sub><code>status: all public · branches protected against force-push and deletion</code></sub></p>
 
 ---
 
