@@ -41,7 +41,7 @@ YAML_ROWS = [
     (1, "subject", "Rafael Arenas"),
     (1, "role", "Full Stack Developer (Mid-Level)"),
     (1, "origin", "Dosquebradas, Colombia"),
-    (1, "experience", "~5 years building software"),
+    (1, "experience", "3+ years professional experience"),
     (1, "focus", "Web & Mobile Development"),
     (1, "interests", "Clean Code · Cybersecurity · Coffee"),
     (0, "stack", ""),
