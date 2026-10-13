@@ -42,7 +42,7 @@ YAML_ROWS = [
     (1, "role", "Full Stack Developer"),
     (1, "origin", "Dosquebradas, Colombia"),
     (1, "focus", "Web · Mobile · Production Support"),
-    (1, "status", "3+ anios resolviendo incidentes criticos"),
+    (1, "status", "3+ years fixing critical production incidents"),
     (1, "toolchain", "React · Node.js · Laravel · Flutter"),
     (0, "stack", ""),
     (1, "frontend", "React · Angular · TypeScript"),
